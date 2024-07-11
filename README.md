@@ -1,3 +1,6 @@
+![Jogo_da_Velha](https://github.com/DaviBCSouza/Tic-Tac-Toe-Game/assets/117680329/67ab2eef-d27a-422c-bbd8-e2cbabf23c5e)
+
+
 # Tic-Tac-Toe-Game
 
 ### Esse projeto, tem o intuito de ser um jogo da velha para dois jogadores, com as mesmas regras <br /> do jogo tradicional, podendo se divertir e desafiar bastante em dupla!
